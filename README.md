@@ -1,6 +1,8 @@
 # toolexec
 execute terminal applications into a live terminal using desktop files
 
+toolexec file should be placed in /usr/bin
+
 example usage
 ```[Desktop Entry]
 Name=nmap
