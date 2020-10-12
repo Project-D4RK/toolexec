@@ -1,2 +1,2 @@
 # toolexec
-execute terminal applications into a live terminal with desktop files
+execute terminal applications into a live terminal using desktop files
