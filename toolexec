@@ -3,4 +3,3 @@ echo -e "                    _____                             \n_______        
 echo "executing \"$*\""
 echo ""
 sudo $* || true
-sudo -s
