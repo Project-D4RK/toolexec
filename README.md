@@ -8,11 +8,11 @@ example usage
 Name=nmap
 Comment=Network exploration or security auditing
 Encoding=UTF-8
-Exec=menuexec "nmap"
-Icon=parrot-nmap.png
+Exec=toolexec "nmap"
+Icon=nmap.png
 StartupNotify=false
 Terminal=true
 Type=Application
 ```
 
-```menuexec "nmap"```
+```toolexec "nmap"```
